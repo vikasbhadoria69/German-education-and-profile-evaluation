@@ -5,3 +5,4 @@ After having strategically perfect datasets I used machine learning to build pre
 Each model has been seperately deployed on the cloud and the link of each model is attached to the User Interface of this project. 
 I used Flask framework to deploy the models to production as I find it simple and effective to use. The cloud platform I used is Heroku as I find it simple to use. 
 I created this project to make my life simple as the students can directly go to my website find accurate information on German education, get their profile evaluated and fnally get a university list based on the prediction. This end-to-end project not only makes my life simple but also helps students to get an accurate information and prediction. 
+Use this link to see my project's final output : https://german-education-end2end-vikas.herokuapp.com/
